@@ -1,31 +1,29 @@
 {
-  "posts": [
+  "questions": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "q": "What is procedure ?",
+      "a": "Setup a Boost 360 business website within minutes. All along with auto-SEO, responsive design, product catalogue and payment gateway. Syncs with your social media channels, for even better reach."
+   
     },
     {
-      "id": 2,
-      "title": "Post 2"
+     "q": "Can i sell my own brand name ?",
+      "a": "Setup a Boost 360 business website within minutes. All along with auto-SEO, responsive design, product catalogue and payment gateway. Syncs with your social media channels, for even better reach."
+   
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "q": "Can we provide discounts ?",
+      "a": "Setup a Boost 360 business website within minutes. All along with auto-SEO, responsive design, product catalogue and payment gateway. Syncs with your social media channels, for even better reach."
+   
+    },
+    {
+      "q": "Is there monthly subsription ?",
+      "a": "Setup a Boost 360 business website within minutes. All along with auto-SEO, responsive design, product catalogue and payment gateway. Syncs with your social media channels, for even better reach."
+   
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "details": {
+      "people":1000,
+      "offices" :40,
+      "bussiness_online":35
   }
 }
